@@ -9,8 +9,6 @@ zhanazhan/zhanazhan is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Zhandos's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhanazhan&count_private=true)
-
 <details open> 
   <summary><h2>🔥 GitHub Profile Stats</h2></summary>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
