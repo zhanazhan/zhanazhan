@@ -23,24 +23,24 @@ You can click the Preview link to take a look at your changes.
     </a>
   </p>
 
-  <h3>Version Control</h3>
+  <h3>⚡ Version Control</h3>
   <p align="center">
-     <img src="https://skillicons.dev/icons?i=github,atlassian,gitlab" />
+     <img src="https://skillicons.dev/icons?i=github,gitlab" />
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,angular,vue,react,spring" />
+      <img src="https://skillicons.dev/icons?i=nodejs,angular,vue,react,spring,redis,materialui" />
     </a>
   </p>
   
   <h3>☁️ Cloud Hosting</h3>
   
   <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=digitalocean" />
+    <a href="https://www.digitalocean.com/">
+      <img src="https://cdn.cdnlogo.com/logos/d/81/digitalocean-icon.svg" width="30" height="30">
     </a>
   </p>
   
@@ -48,15 +48,16 @@ You can click the Preview link to take a look at your changes.
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mongodb,mssql,postgres,oracle" />
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres" /> 
     </a>
+    + <span>MSSQL, ORCL, ELASTICSEARCH</span>
   </p>
   
   <h3>💻 Software and Tools</h3>
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,idea,vscode,linux,docker,androidstudio,vim,visualstudio,bash" />
+      <img src="https://skillicons.dev/icons?i=git,idea,vscode,linux,docker,vim,bash" />
     </a>
   </p>
     
