@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Jake%20👨🏽‍💻%20|%20Frontend%20%2B%20Backend%20%3D%20❤️&width=800&height=110)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Jake%20👨🏽‍💻%20|%20FE%20%2B%20BE%20%2B%20JL%20%3D%20❤️&width=800&height=110)](https://github.com/Akshay090/svg-banners)
 
 - 👋 Hi, I’m @zhanazhan
 - 👀 I’m interested in enterprise level development with distributed systems.
