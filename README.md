@@ -2,9 +2,8 @@
 
 - 👋 Hi, I’m @zhanazhan
 - 👀 I’m interested in enterprise level development with distributed systems.
-- 🌱 I’m currently doing ChatGPT applications.
 - 💞️ I’m looking to collaborate on projects using angular, vuejs, react, nodejs, java, kotlin, python.
-- 📫 How to reach me zhanazhan@gmail.com
+- 📫 How to reach me zhanazhan at gmail.com
 
 <!---
 zhanazhan/zhanazhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
